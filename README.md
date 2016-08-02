@@ -1,4 +1,4 @@
-# RenderSync [![Build Status](https://img.shields.io/travis/chrismccord/sync.svg)](https://travis-ci.org/chrismccord/sync) [![Code climate](https://img.shields.io/codeclimate/github/chrismccord/sync.svg)](https://codeclimate.com/github/chrismccord/sync) [![Code coverage](https://img.shields.io/codeclimate/coverage/github/chrismccord/sync.svg)](https://codeclimate.com/github/chrismccord/sync) [![gem version](https://img.shields.io/gem/v/sync.svg)](http://rubygems.org/gems/sync)
+# RenderSync [![Build Status](https://img.shields.io/travis/chrismccord/render_sync.svg)](https://travis-ci.org/chrismccord/render_sync) [![Code climate](https://img.shields.io/codeclimate/github/chrismccord/render_sync.svg)](https://codeclimate.com/github/chrismccord/sync) [![Code coverage](https://img.shields.io/codeclimate/coverage/github/chrismccord/sync.svg)](https://codeclimate.com/github/chrismccord/sync) [![gem version](https://img.shields.io/gem/v/sync.svg)](http://rubygems.org/gems/sync)
 
 
 > This started as a thought experiment that is growing into a viable option for realtime Rails apps without ditching
